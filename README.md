@@ -13,4 +13,4 @@ https://rwyland.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Becca
 
-### ©️2019 Run Buddy, Inc
+### ©️2019 Run Buddy, Inc test test
