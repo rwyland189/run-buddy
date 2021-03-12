@@ -37,7 +37,7 @@ header nav ul li {
 }
 
 header nav ul li a {
-    margin: 0 30px;
+    padding: 10px 15px;
     font-weight: lighter;
     font-size: 22px;
 }
@@ -76,6 +76,7 @@ section {
     background-size: cover;
     background-position: center;
     position: relative;
+    align-items: flex-start;
 }
 
 .hero-form {
