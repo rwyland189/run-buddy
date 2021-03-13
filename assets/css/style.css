@@ -80,10 +80,6 @@ section {
     background-image: url("../images/hero-bg.jpg");
     background-size: cover;
     background-position: center;
-<<<<<<< HEAD
-    position: relative;
-    align-items: flex-start;
-=======
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -102,7 +98,6 @@ section {
     font-style: italic;
     font-size: 55px;
     color: #fce138;
->>>>>>> 12681d3204d4ab98a3556e6f87efdd2da9fe5630
 }
 
 .hero-form {
